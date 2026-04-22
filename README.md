@@ -48,7 +48,7 @@ A comprehensive monitoring solution for edge devices using Flask, Prometheus, an
 - **Monitoring**: Prometheus, Grafana
 - **Frontend**: HTML, CSS, JavaScript, Chart.js
 - **Containerization**: Docker, Docker Compose, mini
-- **Orchestration**: Kubernetes (optional)
+- **Orchestration**: Kubernetes 
 
 ## Project Structure
 
