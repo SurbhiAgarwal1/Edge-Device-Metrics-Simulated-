@@ -43,7 +43,7 @@ A comprehensive monitoring solution for edge devices using Flask, Prometheus, an
 
 ## Tech Stack
 
-- **Backend**: Python 3.11, Flask
+- **Backend**: Python 3.11 , Flask
 - **Metrics**: Prometheus Client
 - **Monitoring**: Prometheus, Grafana
 - **Frontend**: HTML, CSS, JavaScript, Chart.js
