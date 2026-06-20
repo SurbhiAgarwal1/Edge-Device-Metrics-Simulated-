@@ -96,9 +96,9 @@ docker-compose up -d
 ```
 
 This will start:
-- Flask Exporter on port 5000
-- Prometheus on port 9090
-- Grafana on port 3000
+- Flask Exporter on port - 5000
+- Prometheus on port - 9090
+- Grafana on port - 3000
 
 ### 3. Access the Dashboard
 
